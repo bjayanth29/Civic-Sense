@@ -1,0 +1,6 @@
+{
+  "name": "CivicSense",
+  "description": "AI-powered civic hazard reporting, real-time mapping, community verification, and municipal resolution platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
